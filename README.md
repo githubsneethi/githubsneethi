@@ -1,34 +1,23 @@
 # Hi, I'm Neethi! 👋
 🎓 A Computer Science student passionate about building technology for the common good.
 
-## 🌱 I'm currently Learning
-* Data Structures & Algorithms
-* Object-Oriented Programming (in Java, my favorite!)
+## 🌱 My Skills
+* Data Structures & Algorithms (in Java)
+* Object-Oriented Programming (in Java)
 * NLP and Linguistics (basics)
-* Machine Learning fundamentals
-
-## 🚀 Interests
-* Accessibility Technology
-* Speech & Language Processing
-* Healthcare Applications of AI
-* Web Development
+* Machine Learning fundamentals (using Scikitlearn)
+* Proficient in Python libraries such as Numpy, Pandas and Matplotlib
+* Currently Learning Web Development using JavaScript, React and MongoDB
 
 ## 🔨 Projects
 I'm currently working on projects focused on solving real-world problems through technology, particularly in communication accessibility and Indian language computing. One of the languages I love working on is my mother tongue Telugu (begins to sing "Maa Telugu thalliki..." :D).
 Some areas I enjoy exploring include:
 * Speech-based assistive technologies (Vachan, a communication framework for Parkinson's patients)
 * Transliteration tools (Maata, a simple keyboard to transliterate from English to Telugu)
-* Machine learning applications (working on it!)
 * Full-stack web development (Pichchuka, a website for children to learn Telugu)
-
-## 📚 Current Goals
-* Strengthen my DSA and problem-solving skills
-* Build impactful speech technology tools
-* Learn more about system design that's accessible for everyone
 
 ## 💡 Philosophy
 
-> Technology is most meaningful when it helps people communicate, learn, and live more independently.
-> First, do no harm, look for the errors and slowly debug them (when dealing with bad code haha :D)
+> I strongly believe that technology is most meaningful when it helps people communicate, learn, and live more independently. It is my dream to see everyone have the same resources to learn and participate in the job market, regardless of their physical disabilities. That's why I've made it my life's mission to build tools that will take them one step ahead and keep them at par with their other peers.
 
 *"You are never too old to set another goal or dream another dream." - CS Lewis (my favorite author btw :) )*
