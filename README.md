@@ -14,7 +14,7 @@ I'm currently working on projects focused on solving real-world problems through
 Some areas I enjoy exploring include:
 * Speech-based assistive technologies (Vachan, a communication framework for Parkinson's patients)
 * Transliteration tools (Maata, a simple keyboard to transliterate from English to Telugu)
-* Full-stack web development (Pichchuka, a website for children to learn Telugu)
+* LLMs and tinkering around with Indian NLP libraries
 
 ## 💡 Philosophy
 
