@@ -10,7 +10,7 @@
 * Currently Learning Web Development using JavaScript, React and MongoDB
 
 ## 🔨 Projects
-I'm currently working on projects focused on solving real-world problems through technology, particularly in communication accessibility and Indian language computing. One of the languages I love working on is my mother tongue Telugu (begins to sing "Maa Telugu thalliki..." :D).
+I'm currently working on projects focused on solving real-world problems through technology, particularly in communication, accessibility and Indian language computing. One of the languages I love working on is my mother tongue Telugu.
 Some areas I enjoy exploring include:
 * Speech-based assistive technologies (Vachan, a communication framework for Parkinson's patients)
 * Transliteration tools (Maata, a simple keyboard to transliterate from English to Telugu)
